@@ -1,2 +1,5 @@
-# dice-game-html-js-bootstrap
+# dice-game-Webpack
+
+html, js, bootstrap
+
 Dice Match (HTML-JS Game)
