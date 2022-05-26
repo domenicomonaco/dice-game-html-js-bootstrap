@@ -1,4 +1,6 @@
-# Template HTML Gioco dei Dadi
+# Template HTML Dice Game Match 
+
+*NOTE: do not contain JS code for interaction*
 
 ### Sponsored by
 [<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
