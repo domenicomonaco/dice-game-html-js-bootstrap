@@ -4,7 +4,7 @@
 [<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
  [<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" height="54" />](https://tecnologieperpersone.it)
 
- ## Prerequsiti
+ ## Requirements
 
 * node > 14
 * npm > 6
@@ -23,11 +23,9 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 You must have npm installed in order to use this build environment.
 
-## preview
+## Preview HTML
 
-![Kiku](doc/preview.png)
-
-
+![Dice Match HTML preview](doc/preview.png)
 
 ## Copyright and License
 
