@@ -10,7 +10,7 @@
 
 * node > 14
 * npm > 6
-* **cazzimma** > ∞
+* *cazzimma* > ∞
 
 ### Advanced Usage
 
