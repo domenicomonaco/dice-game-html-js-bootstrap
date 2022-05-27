@@ -5,8 +5,8 @@
 ## [DEMO](https://domenicomonaco.github.io/dice-game-webpack/)
 
 ### Sponsored by
-[<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
- [<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" height="54" />](https://tecnologieperpersone.it)
+[<img align="left" style="margin:5px; "src="http://cdn.tecnologieperpersone.it/img/dmonaco_happy_hacking.png" height="64" />](https://blog.domenicomonaco.it)
+ [<img style="margin:5px;" src="http://cdn.tecnologieperpersone.it/img/tecnologie-per-persone-logo.png" height="64" />](https://tecnologieperpersone.it)
 
  ## Requirements
 
