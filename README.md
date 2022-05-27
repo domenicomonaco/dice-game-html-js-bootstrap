@@ -2,6 +2,8 @@
 
 *NOTE: do not contain JS code for interaction*
 
+## [DEMO](https://domenicomonaco.github.io/dice-game-webpack/)
+
 ### Sponsored by
 [<img align="left" src="https://github.com/domenicomonaco/minimalist-pugJS-boilerplate/blob/master/src/assets/img/logo.png?raw=true" height="54" />](https://blog.domenicomonaco.it)
  [<img src="https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/blob/master/src/assets/img/tecnologie-per-persone-logo.png?raw=true" height="54" />](https://tecnologieperpersone.it)
