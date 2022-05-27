@@ -1,4 +1,34 @@
 {
+  "title": "PUGSJ boilerplate",
+  "name": "minimalist-pugjs-boilerplate",
+  "version": "1.0.1",
+  "homepage": "https://",
+  "license": "MIT", 
+  "author": "Domenico Monaco (https://blog.domenicomonaco.it)",
+  "contributors": [
+    "Tecnologie per Persone (https://www.tecnologieperpersone.it)"
+  ],
+    "description": "Creative is a stylish one page HTML theme built with Bootstrap.",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "html",
+    "pug",
+    "responsive",
+    "theme",
+    "template",
+    "boilerplate",
+    "static"
+  ],  "bugs": {
+    "url": "https://github.com/domenicomonaco/minimalist-pugjs-boilerplate/issues",
+    "email": "domenico@tecnologieperpersone.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domenicomonaco/minimalist-pugjs-boilerplate.git"
+  },
+  
     "private": "true",
     "scripts": {
         "watch": "webpack --watch",
