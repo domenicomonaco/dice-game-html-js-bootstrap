@@ -30,7 +30,7 @@ You must have npm installed in order to use this build environment.
 
 ## Preview HTML
 
-![Dice Match HTML preview](doc/preview.png)
+![Dice Match HTML preview](preview.png)
 
 ## Copyright and License
 
