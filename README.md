@@ -20,11 +20,12 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 #### npm Scripts
 - `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build-prod` runs the project in production mode - this also builds assets, HTML, JS, and CSS into `dist`
+	- `npm run build-prod` as previous build but in production mode
 - `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
 - `npm run clean-inst` delete the `dist` and `node_modules` directories and `package-lock.json` file to prepare for reinstall from scratch the entire projects
 - `npm run dev` runs the project in developing mode
 - `npm watch` not launches a live preview but runs compiling and watches for changes made to files in `src`
+- `npm pages` deletes the `dist` and files into `docs` and then build project and move in to `docs` folder to be displayer as *[DEMO](https://domenicomonaco.github.io/dice-game-webpack/) GitHub Pages* 
 
 You must have npm installed in order to use this build environment.
 
